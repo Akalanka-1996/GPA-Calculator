@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\bin\Debug\CS_2017__001.exe.config
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\bin\Debug\CS_2017__001.exe
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\bin\Debug\CS_2017__001.pdb
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.Form1.resources
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.Form2.resources
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.Properties.Resources.resources
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.exe
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.pdb
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.Form3.resources
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\bin\Debug\QRCoder.dll
+C:\Users\DELL\Desktop\c#\New folder\CS_2017__001\obj\Debug\CS_2017__001.csproj.CopyComplete
